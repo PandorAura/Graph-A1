@@ -227,7 +227,6 @@ def get_the_cost_of_an_edge(graph):
     except:
         print("The edge does not exist. \n")
 
-#TODO: ADD RANDOM GRAPH
 
 def get_the_info_for_modifying_the_cost_of_an_edge(graph):
     x = int(input('Vertex 1: '))
